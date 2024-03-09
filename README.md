@@ -15,5 +15,4 @@ Soy un estudiante de programación amante de la tecnología y las matemáticas
 - [Linkedin](https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267 "target=_blank")
 ## Me puedes contactar por:
 - <a href="mailto:sebastianarengifog16@gmail.com? Subject=Interesado%20en%20contactar%20contigo" >Correo</a>
-</br>
-# Muchas gracias por leer!!!!
+## Muchas gracias por leer!!!!
