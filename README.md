@@ -13,6 +13,7 @@ Soy un estudiante de programación amante de la tecnología y las matemáticas
 - [CSS](https://drafts.csswg.org/ "target=_blank")
 ## Me puedes encontrar en:
 - [Linkedin](https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267 "target=_blank")
+- [instagram](https://www.instagram.com/sebastianrgg_/ "target=_blank")
 ## Me puedes contactar por:
 - <a href="mailto:sebastianarengifog16@gmail.com? Subject=Interesado%20en%20contactar%20contigo" >Correo</a>
 
