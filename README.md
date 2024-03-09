@@ -12,7 +12,7 @@ Soy un estudiante de programación amante de la tecnología y las matemáticas
 - [HTML](https://html.spec.whatwg.org/multipage/ "target=_blank")
 - [CSS](https://drafts.csswg.org/ "target=_blank")
 ## Puedes encontrar mis proyectos en:
-[Proyectos](http://127.0.0.1:3000/index.html#Home) Aun no disponible lo siento 
+[Proyectos](http://127.0.0.1:3000/index.html#Home) Próximamente...
 ## Me puedes encontrar en:
 - [Linkedin](https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267 "target=_blank")
 - [instagram](https://www.instagram.com/sebastianrgg_/ "target=_blank")
