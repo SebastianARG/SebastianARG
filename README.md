@@ -1,5 +1,22 @@
-### Hi there 👋
+# Hola, mi nombre es Sebastian Rengifo
+### Programador Java en su primer año de DAM(Desarrollo de Aplicaciones Multiplataforma)
 
+
+Soy un estudiante de programación amante de la tecnología y las matemáticas
+Tecnologías:
+[![Java]]()
+[![Oracle SQL]]()
+[![Python]]()
+[![Git]]()
+[![Scripting Ubuntu]]()
+[![HTML]]()
+[![CSS]]()
+<br/>
+## Me puedes encontrar en:
+[![LinkedIn](Linkedin)]([https://www.linkedin.com/in/braismoure](https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267/))
+<br/>
+## Me puedes contactar con:
+[![Email](Email)](mailto:sebastianarengifog16@gmail.com)
 <!--
 **SebastianARG/SebastianARG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
