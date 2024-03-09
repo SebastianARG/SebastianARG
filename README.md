@@ -3,7 +3,7 @@
 
 
 Soy un estudiante de programación amante de la tecnología y las matemáticas
-##Tecnologías:
+## Tecnologías:
 - Java
 - Oracle SQL
 - Python
