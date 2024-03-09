@@ -15,6 +15,6 @@ Tecnologías:
 ## Me puedes encontrar en:
 - Linkedin: https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267
 <br/>
-## Me puedes contactar con:
-Gmail: sebastianarengifog16@gmail.com
+##Me puedes contactar con:
+- Gmail: sebastianarengifog16@gmail.com
 
