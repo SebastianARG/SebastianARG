@@ -4,15 +4,16 @@
 
 Soy un estudiante de programación amante de la tecnología y las matemáticas
 ## Tecnologías:
-- Java
-- Oracle SQL
-- Python
-- Git
-- Scripting Ubuntu
-- HTML
-- CSS
+- <a href="https://www.oracle.com/es/java/" target="_blank">Java</a>
+- [Oracle SQL](https://www.oracle.com/es/database/sqldeveloper/)
+- [Python](https://www.python.org/)
+- [Git](https://git-scm.com/)
+- [Scripting Ubuntu](https://ubunlog.com/scripts-en-ubuntu/)
+- [HTML](https://html.spec.whatwg.org/multipage/)
+- [CSS](https://drafts.csswg.org/)
 ## Me puedes encontrar en:
 - <a href="https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267" target="_blank">Linkedin</a>
-## Me puedes contactar con:
-- <a href="mailto:sebastianarengifog16@gmail.com? Subject=Interesado%20en%20contactar%20contigo" >Contactar por correo</a>
+## Me puedes contactar por:
+- <a href="mailto:sebastianarengifog16@gmail.com? Subject=Interesado%20en%20contactar%20contigo" >Correo</a>
 
+##Muchas gracias por leer!!!!
