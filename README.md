@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Sobre mí</h3>
+<h2 align="left">Sobre mí</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">Tecnologías</h3>
+<h2 align="left">Tecnologías</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">contactame por</h3>
+<h2 align="left">contactame por</h3>
 
 ###
 
