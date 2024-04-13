@@ -1,21 +1,53 @@
-# Hola, mi nombre es Sebastian Rengifo
-### Programador Java en su primer año de DAM(Desarrollo de Aplicaciones Multiplataforma)
+<div align="center">
+  <img height="150" src="https://twitter.com/backgroundsbot/status/1761491000420413679/photo/1"  />
+</div>
 
+###
 
-Soy un estudiante de programación amante de la tecnología y las matemáticas
-## Tecnologías:
-- [Java](https://www.oracle.com/es/java/ "target=_blank")
-- [Oracle SQL](https://www.oracle.com/es/database/sqldeveloper/ "target=_blank")
-- [Python](https://www.python.org/ "target=_blank")
-- [Git](https://git-scm.com/ "target=_blank")
-- [Scripting Ubuntu](https://ubunlog.com/scripts-en-ubuntu/ "target=_blank")
-- [HTML](https://html.spec.whatwg.org/multipage/ "target=_blank")
-- [CSS](https://drafts.csswg.org/ "target=_blank")
-## Puedes encontrar mis proyectos en:
-[Proyectos](http://wait-me-a-while) Próximamente...
-## Me puedes encontrar en:
-- [Linkedin](https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267 "target=_blank")
-- [instagram](https://www.instagram.com/sebastianrgg_/ "target=_blank")
-## Me puedes contactar por:
-- <a href="mailto:sebastianarengifog16@gmail.com? Subject=Interesado%20en%20contactar%20contigo" >Correo</a>
+<h1 align="center">Que tal familia 👋</h1>
 
+###
+
+<h3 align="left">Sobre mí</h3>
+
+###
+
+<p align="left">Hola soy Sebastian Rengifo<br>Estudiante de una FP de grado superior DAM(Desarrollo de Aplicaciones Multiplataforma), soy una persona entusiasta que esta empezando en este mundo de la programación y desea mejorar sus skills ténicas.</p>
+
+###
+
+<h3 align="left">Tecnologías</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">contactame por</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
+
+###
