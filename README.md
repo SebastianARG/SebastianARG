@@ -8,17 +8,12 @@
 
 
 <h3 align="left">Sobre mí</h3>
+<hr>
+<p align="left">Hola soy Sebastian Rengifo estudiante de una FP de grado superior DAM(Desarrollo de Aplicaciones Multiplataforma), soy una persona entusiasta que esta empezando en este mundo de la programación y desea mejorar sus skills ténicas.</p>
 
-###
-
-<p align="left">Hola soy Sebastian Rengifo<br>Estudiante de una FP de grado superior DAM(Desarrollo de Aplicaciones Multiplataforma), soy una persona entusiasta que esta empezando en este mundo de la programación y desea mejorar sus skills ténicas.</p>
-
-###
 
 <h3 align="left">Tecnologías</h3>
-
-###
-
+<hr>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -36,17 +31,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
-
-###
-
 <h3 align="left">contactame por</h3>
-
-###
-
+<hr>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
-
-###
