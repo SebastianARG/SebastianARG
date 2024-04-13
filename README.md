@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://twitter.com/backgroundsbot/status/1761491000420413679/photo/1](https://pbs.twimg.com/media/GHIStI1XkAAgrzi?format=jpg&name=large)"  />
+  <img height="150" src="https://cdn.openart.ai/stable_diffusion/825d621242b01bd624ac265e9bfab5690a701133_2000x2000.webp"  />
 </div>
 
 ###
