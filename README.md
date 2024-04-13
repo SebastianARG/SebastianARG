@@ -1,6 +1,7 @@
-<div align="center">
-  <p><img height="150" src="https://camo.githubusercontent.com/8daecc4b97d7b656d83dd371769960be5571bd70befe0b04660449028be36947/68747470733a2f2f692e696d6775722e636f6d2f446550304e6c762e6a706567"  /></p>
-</div>
+
+  <p align="center">
+    <img height="150" src="https://camo.githubusercontent.com/8daecc4b97d7b656d83dd371769960be5571bd70befe0b04660449028be36947/68747470733a2f2f692e696d6775722e636f6d2f446550304e6c762e6a706567"  />
+  </p>
 
 ###
 
