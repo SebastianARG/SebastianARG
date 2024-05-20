@@ -9,7 +9,7 @@
 
 <h3 align="left">Sobre mí</h3>
 <hr>
-<p align="left">Hola soy Sebastian Rengifo estudiante de una FP de grado superior DAM(Desarrollo de Aplicaciones Multiplataforma), soy una persona entusiasta que esta empezando en este mundo de la programación y desea mejorar sus skills ténicas.</p>
+<p align="left">Hola soy Sebastian Rengifo estudiante de una FP de grado superior DAM(Desarrollo de Aplicaciones Multiplataforma), soy una persona entusiasta que ama el mundo de la programación y desea mejorar sus skills ténicas.</p>
 
 
 <h3 align="left">Tecnologías</h3>
