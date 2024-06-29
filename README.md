@@ -1,6 +1,8 @@
+<!--
 <p align="center"> 
     <img src="https://i.imgur.com/DeP0Nlv.jpeg">
 </p>
+-->
 
 # 💫 About Me:
 ¡Hola! Soy un programador de 19 años, originario de Venezuela y actualmente viviendo en España. Estoy apasionado por la tecnología y siempre en busca de aprender y crecer. Me encanta colaborar en proyectos innovadores y desafiantes, especialmente en el desarrollo backend, inteligencia artificial y software.<br><br>Aunque soy joven y aún no tengo experiencia profesional, mi dedicación y pasión por la programación me impulsan a mejorar constantemente mis habilidades. Estoy comprometido a seguir aprendiendo y aportando valor a los proyectos en los que participe. Si buscas a alguien con energía, entusiasmo y un enfoque fresco para resolver problemas, ¡soy la persona adecuada! Estoy emocionado por la posibilidad de colaborar y crear algo increíble juntos. ¡Contáctame!
