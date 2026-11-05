@@ -8,7 +8,7 @@
 ¡Hola! Soy un programador de 21 años, originario de Venezuela y actualmente viviendo en España. Estoy apasionado por la tecnología y siempre en busca de aprender y crecer. Me encanta colaborar en proyectos innovadores y desafiantes, especialmente en el desarrollo backend.<br><br>Aunque soy joven y aún no tengo experiencia profesional, mi dedicación y pasión por la programación me impulsan a mejorar constantemente mis habilidades. Estoy comprometido a seguir aprendiendo y aportando valor a los proyectos en los que participe. Si buscas a alguien con energía, entusiasmo y un enfoque fresco para resolver problemas, ¡soy la persona adecuada! Estoy emocionado por la posibilidad de colaborar y ayudar.
 
 # CV
-<a href="https://sebastianarg.github.io" target="_blank">Mi CV</a>
+<a href="https://sebastianarg.pages.dev" target="_blank">Mi CV</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebastianrgg_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/sebastian-alejandro-rengifo-gil-51bb1a267/)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@sebastianrengifo4194) 
